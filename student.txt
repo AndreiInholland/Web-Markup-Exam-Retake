@@ -1,0 +1,4 @@
+Student name: Andrei Schereper
+Student number: 678786
+Student class: IT1A
+GitHub URL: https://github.com/AndreiInholland/Web-Markup-Exam-Retake
